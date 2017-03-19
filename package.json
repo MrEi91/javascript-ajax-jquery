@@ -1,0 +1,19 @@
+{
+  "name": "javascript-ajax-jquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrEi91/javascript-ajax-jquery.git"
+  },
+  "author": "Eri Irawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrEi91/javascript-ajax-jquery/issues"
+  },
+  "homepage": "https://github.com/MrEi91/javascript-ajax-jquery#readme"
+}
